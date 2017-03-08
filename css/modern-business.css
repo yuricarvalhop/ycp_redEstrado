@@ -71,10 +71,10 @@ header.carousel .fill {
 footer {
     bottom: 100%;
     margin-left: -265px;
-    margin-right: -100px;
+    margin-right: -50px;
     color: #fff;
     background-color: #720f41;
-    height: 70px;
+    height: 8%;
 }
 
 /* Responsive Styles */
@@ -97,7 +97,7 @@ footer {
 }
 
 .header-image {
-    height: 400px;
+    height: 5%;
     background: url('../images/RedeEstradoMexBasica-01.jpg') center center no-repeat scroll;
     background-size: 900px 900px;
     //border-color: #720f41;
@@ -134,9 +134,8 @@ footer {
     padding-right: 15px;
     padding-left: 15px;
     width: 85%;
-    height: 70%;
+    height: 80%;
     position: absolute;
-    min-height: 800px;
 }
 
 #inside-frame{
@@ -144,7 +143,6 @@ footer {
     width: 100%;
     border: 0;
     min-height: 800px;
-
 }
 
 .inicio {
