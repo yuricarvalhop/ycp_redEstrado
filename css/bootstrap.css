@@ -4276,9 +4276,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 40px 15px;
   font-size: 18px;
-  line-height: 20px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4726,7 +4725,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 6px 12px;
   margin-left: -1px;
   line-height: 1.42857143;
-  color: #337ab7;
+  color: #720f41;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -4760,8 +4759,8 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #337ab7;
-  border-color: #337ab7;
+  background-color: #720f41;
+  border-color: #720f41;
 }
 .pagination > .disabled > span,
 .pagination > .disabled > span:hover,
