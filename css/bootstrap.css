@@ -1410,7 +1410,7 @@ a.bg-danger:focus {
 }
 .page-header {
   padding-bottom: 9px;
-  margin: 40px 0 20px;
+  margin: 20px 0 20px;
   border-bottom: 1px solid #eee;
 }
 ul,
@@ -4168,7 +4168,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  height:5%;
+  height:10%;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
