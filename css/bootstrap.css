@@ -3991,7 +3991,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #af788f;;
+  background-color: #720f41;
+  color: #fff;
 }
 .nav > li.disabled > a {
   color: #777;
@@ -4182,7 +4183,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-collapse {
-  padding-right: 15px;
+  //padding-right: 15px;
   padding-left: 15px;
   overflow-x: visible;
   -webkit-overflow-scrolling: touch;

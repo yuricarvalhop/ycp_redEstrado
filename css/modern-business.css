@@ -111,6 +111,7 @@ footer {
 }
 
 #main-sidebar {
+    height: 79%;
     z-index:1 ;
     position: absolute;
     width:230px;
@@ -153,5 +154,10 @@ footer {
 #top-menu-font{
     font-size:  20px;
     margin-top: 50%;
+}
 
+.download-font{
+    font-size: 30px;
+    color: #333;
+    padding-left: 9px;
 }
